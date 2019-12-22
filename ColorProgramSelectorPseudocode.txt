@@ -1,0 +1,7 @@
+White - 77-100
+Gray - 35-45
+Black - 9-12
+
+If color is greater than 70 then play Sound "one" else 
+If color is greater than 30 than play Sound "two" else
+play Sound "three"
